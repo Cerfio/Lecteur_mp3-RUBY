@@ -2,9 +2,10 @@ Lecteur MP3 fait avec ruby
 
 Require :
 
--gem install "colorize"
+-Gem install "colorize"
 
--aplay for listen "music"
+-Install aplay for listen "music"
+
 ---------------------------------------------------------------------------------
 
 Si c'est la première fois que vous lancez le programme entrer "first"
